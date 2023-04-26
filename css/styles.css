@@ -13,6 +13,8 @@ img {
 
 header {
   background: url(../img/header_bg.jpg);
+  background-size: cover;
+  border-top: 5px solid #060E17;
 }
 
 header a,
@@ -23,6 +25,11 @@ footer a {
 header img {
   padding: 50px;
   padding-bottom: 15px;
+}
+
+h2 {
+  font-size: 26px;
+  margin: 0;
 }
 
 .box-title {
