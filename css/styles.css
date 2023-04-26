@@ -56,4 +56,16 @@ header img {
   display: flex;
   flex-direction: column;
   align-items: center;
+
+footer {
+  background: #060E17;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 10px;
+}
+
 }
